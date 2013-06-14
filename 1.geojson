@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-{ "type": "Feature", "properties": { "ID": "0", "USER": "Dilara9724", "DATE": "Wed, 12 Jun 2013 03:49:34 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56,0177399, 54,7266582 ] } }
+{ "type": "Feature", "properties": { "ID": "0"}, "geometry": { "type": "Point", "coordinates": [ 56,0177399, 54,7266582 ] } }
 
 ]
 }
