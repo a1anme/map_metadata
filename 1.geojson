@@ -2,45 +2,263 @@
 "type": "FeatureCollection",
                                                                                 
 "features": [
-{ "type": "Feature", "properties": { "id": "0", "user": "Dilara9724", "date": "Wed, 12 Jun 2013 03:49:34 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.01774, 54.726658 ] } }
+{ "type": "Feature", "properties": { "id": "0", "user": "Alle975", "date": "Tue, 11 Jun 2013 19:16:40 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.943456, 54.725004 ] } }
 ,
-{ "type": "Feature", "properties": { "id": "1", "user": "heymaboy", "date": "Wed, 12 Jun 2013 03:49:32 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.010053, 54.720545 ] } }
+{ "type": "Feature", "properties": { "id": "1", "user": "ZemfiraB_", "date": "Tue, 11 Jun 2013 19:24:00 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.957811, 54.736564 ] } }
 ,
-{ "type": "Feature", "properties": { "id": "2", "user": "be_misanthrope", "date": "Wed, 12 Jun 2013 03:48:14 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.098506, 54.809848 ] } }
+{ "type": "Feature", "properties": { "id": "2", "user": "denisvk777", "date": "Tue, 11 Jun 2013 19:47:14 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.972432, 54.728759 ] } }
 ,
-{ "type": "Feature", "properties": { "id": "3", "user": "Dashka09", "date": "Wed, 12 Jun 2013 03:47:58 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.094165, 54.822974 ] } }
+{ "type": "Feature", "properties": { "id": "3", "user": "NTenkov", "date": "Tue, 11 Jun 2013 19:49:58 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.924507, 54.724552 ] } }
 ,
-{ "type": "Feature", "properties": { "id": "4", "user": "Sirbik1999", "date": "Wed, 12 Jun 2013 03:47:37 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.984372, 54.730565 ] } }
+{ "type": "Feature", "properties": { "id": "4", "user": "AmritaSaipan", "date": "Tue, 11 Jun 2013 19:50:00 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.947897, 54.721621 ] } }
 ,
-{ "type": "Feature", "properties": { "id": "5", "user": "Karisha_milka", "date": "Wed, 12 Jun 2013 03:44:58 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.07302, 54.766296 ] } }
+{ "type": "Feature", "properties": { "id": "5", "user": "delovuha", "date": "Tue, 11 Jun 2013 19:50:15 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.022248, 54.773143 ] } }
 ,
-{ "type": "Feature", "properties": { "id": "6", "user": "natashka_mrr", "date": "Wed, 12 Jun 2013 03:42:54 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.132716, 54.62415 ] } }
+{ "type": "Feature", "properties": { "id": "6", "user": "z_rishat", "date": "Tue, 11 Jun 2013 19:55:59 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.827223, 54.698981 ] } }
 ,
-{ "type": "Feature", "properties": { "id": "7", "user": "ils83", "date": "Wed, 12 Jun 2013 03:42:02 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.073472, 54.774452 ] } }
+{ "type": "Feature", "properties": { "id": "7", "user": "KamokT", "date": "Tue, 11 Jun 2013 20:00:59 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.006876, 54.7205 ] } }
 ,
-{ "type": "Feature", "properties": { "id": "8", "user": "_Julia121_", "date": "Wed, 12 Jun 2013 03:41:09 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.052976, 54.780932 ] } }
+{ "type": "Feature", "properties": { "id": "8", "user": "lizaveta_08", "date": "Tue, 11 Jun 2013 20:10:56 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.955527, 54.724917 ] } }
 ,
-{ "type": "Feature", "properties": { "id": "9", "user": "IskanderMaks", "date": "Wed, 12 Jun 2013 03:40:13 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.942374, 54.726725 ] } }
+{ "type": "Feature", "properties": { "id": "9", "user": "phenix_pro", "date": "Tue, 11 Jun 2013 23:30:19 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.112345, 54.777856 ] } }
 ,
-{ "type": "Feature", "properties": { "id": "10", "user": "blogger639", "date": "Wed, 12 Jun 2013 03:39:11 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.958019, 54.724166 ] } }
+{ "type": "Feature", "properties": { "id": "10", "user": "ritabelovaey", "date": "Wed, 12 Jun 2013 01:19:06 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.005942, 54.703024 ] } }
 ,
-{ "type": "Feature", "properties": { "id": "11", "user": "alinanicee", "date": "Wed, 12 Jun 2013 03:37:39 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.830026, 54.823472 ] } }
+{ "type": "Feature", "properties": { "id": "11", "user": "aivarufa", "date": "Wed, 12 Jun 2013 01:40:14 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.032548, 54.752022 ] } }
 ,
-{ "type": "Feature", "properties": { "id": "12", "user": "PolinkaMalik", "date": "Wed, 12 Jun 2013 03:35:58 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.017409, 54.763437 ] } }
+{ "type": "Feature", "properties": { "id": "12", "user": "azaliya_04", "date": "Wed, 12 Jun 2013 03:09:20 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.96422, 54.722381 ] } }
 ,
-{ "type": "Feature", "properties": { "id": "13", "user": "greenmonkeyme", "date": "Wed, 12 Jun 2013 03:32:26 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.983392, 54.698234 ] } }
+{ "type": "Feature", "properties": { "id": "13", "user": "_Julia121_", "date": "Wed, 12 Jun 2013 03:31:00 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.061152, 54.773771 ] } }
 ,
-{ "type": "Feature", "properties": { "id": "14", "user": "AlMoR_22", "date": "Wed, 12 Jun 2013 03:28:18 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.997072, 54.713359 ] } }
+{ "type": "Feature", "properties": { "id": "14", "user": "ga_eka", "date": "Wed, 12 Jun 2013 03:41:34 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.108004, 54.597039 ] } }
 ,
-{ "type": "Feature", "properties": { "id": "15", "user": "__Ebash__", "date": "Wed, 12 Jun 2013 03:27:40 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.115747, 54.809321 ] } }
+{ "type": "Feature", "properties": { "id": "15", "user": "Aiguska_", "date": "Wed, 12 Jun 2013 04:08:29 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.998489, 54.764735 ] } }
 ,
-{ "type": "Feature", "properties": { "id": "16", "user": "Usmanova96", "date": "Wed, 12 Jun 2013 03:25:29 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.013864, 54.688038 ] } }
+{ "type": "Feature", "properties": { "id": "16", "user": "KsushaStep", "date": "Wed, 12 Jun 2013 04:12:53 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.948607, 54.73067 ] } }
 ,
-{ "type": "Feature", "properties": { "id": "17", "user": "_Llera_", "date": "Wed, 12 Jun 2013 03:23:26 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.894555, 54.515585 ] } }
+{ "type": "Feature", "properties": { "id": "17", "user": "BobbyRus", "date": "Wed, 12 Jun 2013 04:14:21 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.022909, 54.76245 ] } }
 ,
-{ "type": "Feature", "properties": { "id": "18", "user": "_Ralina", "date": "Wed, 12 Jun 2013 03:22:35 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.042846, 54.7776 ] } }
+{ "type": "Feature", "properties": { "id": "18", "user": "IlnurSagadatov", "date": "Wed, 12 Jun 2013 04:32:24 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.940994, 54.725493 ] } }
 ,
-{ "type": "Feature", "properties": { "id": "19", "user": "Aiguska_", "date": "Wed, 12 Jun 2013 03:13:12 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.996348, 54.760614 ] } }
+{ "type": "Feature", "properties": { "id": "19", "user": "ral46_ralya", "date": "Wed, 12 Jun 2013 04:35:19 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.078236, 54.816624 ] } }
+,
+{ "type": "Feature", "properties": { "id": "20", "user": "JucieJuli", "date": "Wed, 12 Jun 2013 05:30:29 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.952348, 54.765642 ] } }
+,
+{ "type": "Feature", "properties": { "id": "21", "user": "karina__maalina", "date": "Wed, 12 Jun 2013 05:40:01 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.004546, 54.692587 ] } }
+,
+{ "type": "Feature", "properties": { "id": "22", "user": "stromser", "date": "Wed, 12 Jun 2013 05:42:51 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.134858, 54.782251 ] } }
+,
+{ "type": "Feature", "properties": { "id": "23", "user": "mortihead", "date": "Wed, 12 Jun 2013 05:43:15 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.94779, 54.726157 ] } }
+,
+{ "type": "Feature", "properties": { "id": "24", "user": "kutluguzhin", "date": "Wed, 12 Jun 2013 06:01:56 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.084577, 54.815287 ] } }
+,
+{ "type": "Feature", "properties": { "id": "25", "user": "natashka_mrr", "date": "Wed, 12 Jun 2013 06:10:22 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.930452, 54.674625 ] } }
+,
+{ "type": "Feature", "properties": { "id": "26", "user": "MrRASL", "date": "Wed, 12 Jun 2013 06:16:50 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.990716, 54.742724 ] } }
+,
+{ "type": "Feature", "properties": { "id": "27", "user": "Tanya_Grechko", "date": "Wed, 12 Jun 2013 07:09:33 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.930452, 54.674625 ] } }
+,
+{ "type": "Feature", "properties": { "id": "28", "user": "EvgenyFeldman", "date": "Wed, 12 Jun 2013 07:13:13 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.884566, 54.566076 ] } }
+,
+{ "type": "Feature", "properties": { "id": "29", "user": "SadkovaLiza", "date": "Wed, 12 Jun 2013 07:17:12 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.968128, 54.734463 ] } }
+,
+{ "type": "Feature", "properties": { "id": "30", "user": "kotoamber", "date": "Wed, 12 Jun 2013 07:34:26 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.010286, 54.759784 ] } }
+,
+{ "type": "Feature", "properties": { "id": "31", "user": "daria_se", "date": "Wed, 12 Jun 2013 08:02:50 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.930452, 54.674625 ] } }
+,
+{ "type": "Feature", "properties": { "id": "32", "user": "mig3008", "date": "Wed, 12 Jun 2013 08:04:06 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.941739, 54.728759 ] } }
+,
+{ "type": "Feature", "properties": { "id": "33", "user": "yulyyashh", "date": "Wed, 12 Jun 2013 08:07:46 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.808383, 54.598228 ] } }
+,
+{ "type": "Feature", "properties": { "id": "34", "user": "Niisans", "date": "Wed, 12 Jun 2013 08:09:46 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.069434, 54.819091 ] } }
+,
+{ "type": "Feature", "properties": { "id": "35", "user": "4eshirecat", "date": "Wed, 12 Jun 2013 08:10:32 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.115289, 54.805978 ] } }
+,
+{ "type": "Feature", "properties": { "id": "36", "user": "Malinalinovaya", "date": "Wed, 12 Jun 2013 08:12:24 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.008301, 54.753632 ] } }
+,
+{ "type": "Feature", "properties": { "id": "37", "user": "MusAsya", "date": "Wed, 12 Jun 2013 08:14:44 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.958283, 54.737165 ] } }
+,
+{ "type": "Feature", "properties": { "id": "38", "user": "Denis_Derushkin", "date": "Wed, 12 Jun 2013 08:22:57 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.884566, 54.566076 ] } }
+,
+{ "type": "Feature", "properties": { "id": "39", "user": "MLazarenko", "date": "Wed, 12 Jun 2013 08:27:13 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.929379, 54.680456 ] } }
+,
+{ "type": "Feature", "properties": { "id": "40", "user": "TrueDinar", "date": "Wed, 12 Jun 2013 08:34:04 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.985515, 54.752736 ] } }
+,
+{ "type": "Feature", "properties": { "id": "41", "user": "BaraDa_45", "date": "Wed, 12 Jun 2013 08:37:41 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.915947, 54.619102 ] } }
+,
+{ "type": "Feature", "properties": { "id": "42", "user": "Opium93", "date": "Wed, 12 Jun 2013 08:40:07 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.985942, 54.750907 ] } }
+,
+{ "type": "Feature", "properties": { "id": "43", "user": "NAMEISNAS", "date": "Wed, 12 Jun 2013 08:41:12 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.021673, 54.774099 ] } }
+,
+{ "type": "Feature", "properties": { "id": "44", "user": "laisano4ka", "date": "Wed, 12 Jun 2013 08:42:41 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.952725, 54.719229 ] } }
+,
+{ "type": "Feature", "properties": { "id": "45", "user": "Nejik_com", "date": "Wed, 12 Jun 2013 08:57:45 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.930452, 54.674625 ] } }
+,
+{ "type": "Feature", "properties": { "id": "46", "user": "YuriySidorov", "date": "Wed, 12 Jun 2013 08:59:42 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.021712, 54.773099 ] } }
+,
+{ "type": "Feature", "properties": { "id": "47", "user": "UfaKaterina", "date": "Wed, 12 Jun 2013 09:17:12 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.060497, 54.767141 ] } }
+,
+{ "type": "Feature", "properties": { "id": "48", "user": "zvali_mechtoy", "date": "Wed, 12 Jun 2013 09:24:33 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.032256, 54.751466 ] } }
+,
+{ "type": "Feature", "properties": { "id": "49", "user": "maxvx", "date": "Wed, 12 Jun 2013 09:27:06 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.0205, 54.766693 ] } }
+,
+{ "type": "Feature", "properties": { "id": "50", "user": "VasilyaaV", "date": "Wed, 12 Jun 2013 09:36:43 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.987659, 54.741222 ] } }
+,
+{ "type": "Feature", "properties": { "id": "51", "user": "sanek_ufa", "date": "Wed, 12 Jun 2013 09:42:27 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.958283, 54.737165 ] } }
+,
+{ "type": "Feature", "properties": { "id": "52", "user": "AnnaBykova", "date": "Wed, 12 Jun 2013 09:43:26 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.94779, 54.726157 ] } }
+,
+{ "type": "Feature", "properties": { "id": "53", "user": "Katysha963", "date": "Wed, 12 Jun 2013 09:55:16 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.991329, 54.71247 ] } }
+,
+{ "type": "Feature", "properties": { "id": "54", "user": "Elinochka100", "date": "Wed, 12 Jun 2013 10:00:48 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.000061, 54.749743 ] } }
+,
+{ "type": "Feature", "properties": { "id": "55", "user": "_RahimovaErna_", "date": "Wed, 12 Jun 2013 10:12:12 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.00827, 54.752925 ] } }
+,
+{ "type": "Feature", "properties": { "id": "56", "user": "GareevaSabba", "date": "Wed, 12 Jun 2013 10:16:53 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.008301, 54.753632 ] } }
+,
+{ "type": "Feature", "properties": { "id": "57", "user": "khuzhina_leisan", "date": "Wed, 12 Jun 2013 10:18:34 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.008301, 54.753632 ] } }
+,
+{ "type": "Feature", "properties": { "id": "58", "user": "Radmila_Milash", "date": "Wed, 12 Jun 2013 10:27:30 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.950155, 54.727863 ] } }
+,
+{ "type": "Feature", "properties": { "id": "59", "user": "izerginaina", "date": "Wed, 12 Jun 2013 10:30:41 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.940955, 54.727056 ] } }
+,
+{ "type": "Feature", "properties": { "id": "60", "user": "porkyng", "date": "Wed, 12 Jun 2013 10:37:46 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.951213, 54.734031 ] } }
+,
+{ "type": "Feature", "properties": { "id": "61", "user": "HairullinaS", "date": "Wed, 12 Jun 2013 10:44:34 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.999117, 54.762014 ] } }
+,
+{ "type": "Feature", "properties": { "id": "62", "user": "farion2010", "date": "Wed, 12 Jun 2013 11:02:53 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.956845, 54.73644 ] } }
+,
+{ "type": "Feature", "properties": { "id": "63", "user": "galun4ik113", "date": "Wed, 12 Jun 2013 11:06:30 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.018236, 54.774442 ] } }
+,
+{ "type": "Feature", "properties": { "id": "64", "user": "LaimUp", "date": "Wed, 12 Jun 2013 11:35:36 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.971136, 54.736762 ] } }
+,
+{ "type": "Feature", "properties": { "id": "65", "user": "yavanilka", "date": "Wed, 12 Jun 2013 11:36:12 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.035016, 54.752121 ] } }
+,
+{ "type": "Feature", "properties": { "id": "66", "user": "NOKuznetcova", "date": "Wed, 12 Jun 2013 11:48:38 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.952939, 54.708073 ] } }
+,
+{ "type": "Feature", "properties": { "id": "67", "user": "ilshatxv", "date": "Wed, 12 Jun 2013 11:51:17 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.001031, 54.748089 ] } }
+,
+{ "type": "Feature", "properties": { "id": "68", "user": "Rusya940", "date": "Wed, 12 Jun 2013 11:57:45 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.950751, 54.739692 ] } }
+,
+{ "type": "Feature", "properties": { "id": "69", "user": "artmartyn", "date": "Wed, 12 Jun 2013 11:58:07 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.032256, 54.751466 ] } }
+,
+{ "type": "Feature", "properties": { "id": "70", "user": "ATerekhin21", "date": "Wed, 12 Jun 2013 11:58:18 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.005063, 54.755682 ] } }
+,
+{ "type": "Feature", "properties": { "id": "71", "user": "KurbanovaKarina", "date": "Wed, 12 Jun 2013 11:59:23 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.930452, 54.674625 ] } }
+,
+{ "type": "Feature", "properties": { "id": "72", "user": "rumscreed", "date": "Wed, 12 Jun 2013 12:00:53 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.951213, 54.734031 ] } }
+,
+{ "type": "Feature", "properties": { "id": "73", "user": "ollav_mir", "date": "Wed, 12 Jun 2013 12:05:33 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.98695, 54.740764 ] } }
+,
+{ "type": "Feature", "properties": { "id": "74", "user": "tam4man", "date": "Wed, 12 Jun 2013 12:07:47 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.032256, 54.751466 ] } }
+,
+{ "type": "Feature", "properties": { "id": "75", "user": "cubik_rubick", "date": "Wed, 12 Jun 2013 12:13:52 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.032256, 54.751466 ] } }
+,
+{ "type": "Feature", "properties": { "id": "76", "user": "dnlzdnv", "date": "Wed, 12 Jun 2013 12:16:49 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.032256, 54.751466 ] } }
+,
+{ "type": "Feature", "properties": { "id": "77", "user": "iSMARTos", "date": "Wed, 12 Jun 2013 12:17:39 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.035016, 54.752121 ] } }
+,
+{ "type": "Feature", "properties": { "id": "78", "user": "zazoley", "date": "Wed, 12 Jun 2013 12:22:14 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.035016, 54.752121 ] } }
+,
+{ "type": "Feature", "properties": { "id": "79", "user": "buddygleb", "date": "Wed, 12 Jun 2013 12:27:12 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.032256, 54.751466 ] } }
+,
+{ "type": "Feature", "properties": { "id": "80", "user": "be_misanthrope", "date": "Wed, 12 Jun 2013 12:28:30 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.09807, 54.811902 ] } }
+,
+{ "type": "Feature", "properties": { "id": "81", "user": "nezlayaa_a", "date": "Wed, 12 Jun 2013 12:33:54 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.036079, 54.789228 ] } }
+,
+{ "type": "Feature", "properties": { "id": "82", "user": "ellinalat", "date": "Wed, 12 Jun 2013 12:39:29 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.930452, 54.674625 ] } }
+,
+{ "type": "Feature", "properties": { "id": "83", "user": "admirable_miley", "date": "Wed, 12 Jun 2013 12:50:09 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.976629, 54.739091 ] } }
+,
+{ "type": "Feature", "properties": { "id": "84", "user": "sonyashka_3", "date": "Wed, 12 Jun 2013 12:52:47 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.983696, 54.71572 ] } }
+,
+{ "type": "Feature", "properties": { "id": "85", "user": "xime_oo", "date": "Wed, 12 Jun 2013 13:03:52 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.058726, 54.771534 ] } }
+,
+{ "type": "Feature", "properties": { "id": "86", "user": "by_berni", "date": "Wed, 12 Jun 2013 13:22:07 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.987661, 54.741521 ] } }
+,
+{ "type": "Feature", "properties": { "id": "87", "user": "mur_23", "date": "Wed, 12 Jun 2013 13:41:06 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.025853, 54.772153 ] } }
+,
+{ "type": "Feature", "properties": { "id": "88", "user": "Adleeer", "date": "Wed, 12 Jun 2013 13:43:38 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.069434, 54.819091 ] } }
+,
+{ "type": "Feature", "properties": { "id": "89", "user": "komissarova01", "date": "Wed, 12 Jun 2013 14:01:38 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.985822, 54.748977 ] } }
+,
+{ "type": "Feature", "properties": { "id": "90", "user": "olyaaymurzina", "date": "Wed, 12 Jun 2013 14:02:08 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.949861, 54.71926 ] } }
+,
+{ "type": "Feature", "properties": { "id": "91", "user": "polii_22", "date": "Wed, 12 Jun 2013 14:26:08 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.025853, 54.772153 ] } }
+,
+{ "type": "Feature", "properties": { "id": "92", "user": "snow_angell", "date": "Wed, 12 Jun 2013 14:34:01 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.032816, 54.751775 ] } }
+,
+{ "type": "Feature", "properties": { "id": "93", "user": "ShauraBaileys", "date": "Wed, 12 Jun 2013 14:37:03 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.946433, 54.728904 ] } }
+,
+{ "type": "Feature", "properties": { "id": "94", "user": "ilina_diva", "date": "Wed, 12 Jun 2013 14:39:22 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.981135, 54.738271 ] } }
+,
+{ "type": "Feature", "properties": { "id": "95", "user": "Tamaarraaaa", "date": "Wed, 12 Jun 2013 14:58:07 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.025853, 54.772153 ] } }
+,
+{ "type": "Feature", "properties": { "id": "96", "user": "Rufina_m", "date": "Wed, 12 Jun 2013 14:58:42 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.029685, 54.746484 ] } }
+,
+{ "type": "Feature", "properties": { "id": "97", "user": "sadalinka1", "date": "Wed, 12 Jun 2013 15:11:50 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.991094, 54.688683 ] } }
+,
+{ "type": "Feature", "properties": { "id": "98", "user": "elinushmalinush", "date": "Wed, 12 Jun 2013 15:18:44 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.926676, 54.721398 ] } }
+,
+{ "type": "Feature", "properties": { "id": "99", "user": "RikkiStanler", "date": "Wed, 12 Jun 2013 15:20:15 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.064957, 54.824174 ] } }
+,
+{ "type": "Feature", "properties": { "id": "100", "user": "Yana_Kraft", "date": "Wed, 12 Jun 2013 15:39:47 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.981135, 54.738271 ] } }
+,
+{ "type": "Feature", "properties": { "id": "101", "user": "DesignBonnie", "date": "Wed, 12 Jun 2013 15:44:06 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.943928, 54.724868 ] } }
+,
+{ "type": "Feature", "properties": { "id": "102", "user": "AnasiaGr", "date": "Wed, 12 Jun 2013 15:44:52 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.940955, 54.727056 ] } }
+,
+{ "type": "Feature", "properties": { "id": "103", "user": "writeElage", "date": "Wed, 12 Jun 2013 15:55:53 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.940889, 54.727547 ] } }
+,
+{ "type": "Feature", "properties": { "id": "104", "user": "evanazarova", "date": "Wed, 12 Jun 2013 16:24:15 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.944604, 54.725283 ] } }
+,
+{ "type": "Feature", "properties": { "id": "105", "user": "shestakov_oleg", "date": "Wed, 12 Jun 2013 16:44:02 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.946421, 54.729158 ] } }
+,
+{ "type": "Feature", "properties": { "id": "106", "user": "AydarED", "date": "Wed, 12 Jun 2013 16:50:27 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.005906, 54.707545 ] } }
+,
+{ "type": "Feature", "properties": { "id": "107", "user": "bonnypark", "date": "Wed, 12 Jun 2013 16:59:39 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.940955, 54.727056 ] } }
+,
+{ "type": "Feature", "properties": { "id": "108", "user": "iloveanestea", "date": "Wed, 12 Jun 2013 17:02:53 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.023321, 54.773205 ] } }
+,
+{ "type": "Feature", "properties": { "id": "109", "user": "AdeleEnikeeva", "date": "Wed, 12 Jun 2013 17:04:15 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.023321, 54.773205 ] } }
+,
+{ "type": "Feature", "properties": { "id": "110", "user": "balusheva", "date": "Wed, 12 Jun 2013 17:13:59 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.035016, 54.752121 ] } }
+,
+{ "type": "Feature", "properties": { "id": "111", "user": "A1ishka", "date": "Wed, 12 Jun 2013 17:15:37 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.946084, 54.724131 ] } }
+,
+{ "type": "Feature", "properties": { "id": "112", "user": "eduard_izmailov", "date": "Wed, 12 Jun 2013 17:19:08 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.956807, 54.729677 ] } }
+,
+{ "type": "Feature", "properties": { "id": "113", "user": "Bulat_Fa", "date": "Wed, 12 Jun 2013 17:37:31 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.035016, 54.752121 ] } }
+,
+{ "type": "Feature", "properties": { "id": "114", "user": "aidamrr", "date": "Wed, 12 Jun 2013 17:43:16 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.991759, 54.749478 ] } }
+,
+{ "type": "Feature", "properties": { "id": "115", "user": "96_rob", "date": "Wed, 12 Jun 2013 17:45:03 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.915947, 54.619102 ] } }
+,
+{ "type": "Feature", "properties": { "id": "116", "user": "heymaboy", "date": "Wed, 12 Jun 2013 18:32:28 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.987661, 54.741521 ] } }
+,
+{ "type": "Feature", "properties": { "id": "117", "user": "Lubimaya_R", "date": "Wed, 12 Jun 2013 18:58:04 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.022248, 54.773143 ] } }
+,
+{ "type": "Feature", "properties": { "id": "118", "user": "faizovanr", "date": "Wed, 12 Jun 2013 19:20:34 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.927405, 54.622481 ] } }
+,
+{ "type": "Feature", "properties": { "id": "119", "user": "harttod7", "date": "Wed, 12 Jun 2013 19:31:41 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.995318, 54.69756 ] } }
+,
+{ "type": "Feature", "properties": { "id": "120", "user": "yulenochka111", "date": "Wed, 12 Jun 2013 20:02:52 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.022248, 54.773143 ] } }
+,
+{ "type": "Feature", "properties": { "id": "121", "user": "_Padme_Amidala_", "date": "Wed, 12 Jun 2013 20:25:36 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.884566, 54.566076 ] } }
+,
+{ "type": "Feature", "properties": { "id": "122", "user": "alexz_larin", "date": "Thu, 13 Jun 2013 01:51:17 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.001265, 54.745388 ] } }
+,
+{ "type": "Feature", "properties": { "id": "123", "user": "anutka2654140", "date": "Thu, 13 Jun 2013 03:04:01 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.120142, 54.809282 ] } }
+,
+{ "type": "Feature", "properties": { "id": "124", "user": "durdunduks", "date": "Thu, 13 Jun 2013 03:09:38 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.015253, 54.760442 ] } }
+,
+{ "type": "Feature", "properties": { "id": "125", "user": "DaryaDmitrievn1", "date": "Thu, 13 Jun 2013 03:22:34 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.99916, 54.758164 ] } }
+,
+{ "type": "Feature", "properties": { "id": "126", "user": "Nelya_Gal", "date": "Thu, 13 Jun 2013 03:23:37 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.941095, 54.716478 ] } }
+,
+{ "type": "Feature", "properties": { "id": "127", "user": "ogorelik", "date": "Thu, 13 Jun 2013 03:46:03 +0000"}, "geometry": { "type": "Point", "coordinates": [ 55.948348, 54.748282 ] } }
+,
+{ "type": "Feature", "properties": { "id": "128", "user": "svet_01", "date": "Thu, 13 Jun 2013 03:59:32 +0000"}, "geometry": { "type": "Point", "coordinates": [ 56.021733, 54.765889 ] } }
 
 ]
 }
