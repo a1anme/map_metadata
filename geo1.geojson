@@ -1,0 +1,177 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "id": "0", "name": "Wed, 12 Jun 2013 13:19:28 +0000,iamanibas", "x_coord": "56.00576804", "y_coord": "54.71998075" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "1", "name": "Wed, 12 Jun 2013 13:18:26 +0000,KatyaStepnaya", "x_coord": "56.13262684", "y_coord": "54.62426256" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "2", "name": "Wed, 12 Jun 2013 13:18:05 +0000,ZibaevNik", "x_coord": "55.9797944", "y_coord": "54.750076" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "3", "name": "Wed, 12 Jun 2013 13:18:00 +0000,twchereshenka", "x_coord": "55.83767208", "y_coord": "54.7144132" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "4", "name": "Wed, 12 Jun 2013 13:17:53 +0000,DashaKovshova", "x_coord": "56.11912008", "y_coord": "54.81109852" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "5", "name": "Wed, 12 Jun 2013 13:17:50 +0000,YakinaLera", "x_coord": "55.92800233", "y_coord": "54.64751509" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "6", "name": "Wed, 12 Jun 2013 13:17:03 +0000,PolinkaMalik", "x_coord": "56.0258609", "y_coord": "54.7727599" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "7", "name": "Wed, 12 Jun 2013 13:15:34 +0000,TBikmetov", "x_coord": "55.9270896", "y_coord": "54.6744782" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "8", "name": "Wed, 12 Jun 2013 13:15:31 +0000,nikabutovich", "x_coord": "55.98793113", "y_coord": "54.74351067" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "9", "name": "Wed, 12 Jun 2013 13:15:14 +0000,khamitimur", "x_coord": "55.98115", "y_coord": "54.73787333" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "10", "name": "Wed, 12 Jun 2013 13:14:38 +0000,sexyyygrrl", "x_coord": "55.94848727", "y_coord": "54.73455746" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "11", "name": "Wed, 12 Jun 2013 13:12:49 +0000,TanyaTanya101", "x_coord": "55.99223485", "y_coord": "54.74458182" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "12", "name": "Wed, 12 Jun 2013 13:12:47 +0000,elina_oscarovna", "x_coord": "55.95170905", "y_coord": "54.7142605" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "13", "name": "Wed, 12 Jun 2013 13:12:31 +0000,KushnirMrr", "x_coord": "55.79781519", "y_coord": "54.67663798" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "14", "name": "Wed, 12 Jun 2013 13:09:53 +0000,kis_myr", "x_coord": "56.0628976", "y_coord": "54.820341" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "15", "name": "Wed, 12 Jun 2013 13:09:30 +0000,KulbaevaAlina", "x_coord": "56.0258609", "y_coord": "54.7727599" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "16", "name": "Wed, 12 Jun 2013 13:08:32 +0000,fardeev", "x_coord": "56.03782135", "y_coord": "54.73049785" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "17", "name": "Wed, 12 Jun 2013 13:08:18 +0000,a_and_g_", "x_coord": "56.03782135", "y_coord": "54.73049785" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "18", "name": "Wed, 12 Jun 2013 13:08:15 +0000,schurra_sasha", "x_coord": "55.989793", "y_coord": "54.7533198" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "19", "name": "Wed, 12 Jun 2013 13:05:53 +0000,_RahimovaErna_", "x_coord": "55.87135364", "y_coord": "54.79988038" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "20", "name": "Wed, 12 Jun 2013 13:05:46 +0000,katyaket01", "x_coord": "56.11312512", "y_coord": "54.77643239" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "21", "name": "Wed, 12 Jun 2013 13:04:02 +0000,mashamirabella", "x_coord": "56.0858212", "y_coord": "54.8203804" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "22", "name": "Wed, 12 Jun 2013 13:02:40 +0000,Kenny_is_ONE", "x_coord": "55.9798327", "y_coord": "54.7206324" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "23", "name": "Wed, 12 Jun 2013 13:01:53 +0000,galun4ik113", "x_coord": "55.95204209", "y_coord": "54.74127098" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "24", "name": "Wed, 12 Jun 2013 12:56:59 +0000,AnastasyaPastyh", "x_coord": "56.1162152", "y_coord": "54.8104866" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "25", "name": "Wed, 12 Jun 2013 12:56:16 +0000,Tanya_Grechko", "x_coord": "55.95030785", "y_coord": "54.73079062" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "26", "name": "Wed, 12 Jun 2013 12:54:51 +0000,alsou_alkaino", "x_coord": "56.02832276", "y_coord": "54.76865518" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "27", "name": "Wed, 12 Jun 2013 12:54:35 +0000,DaizyDalis", "x_coord": "55.99646938", "y_coord": "54.7416055" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "28", "name": "Wed, 12 Jun 2013 12:48:38 +0000,alicepractice3", "x_coord": "55.9504594", "y_coord": "54.7022508" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "29", "name": "Wed, 12 Jun 2013 12:48:32 +0000,kamilushe4ka", "x_coord": "56.0099477", "y_coord": "54.7532989" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "30", "name": "Wed, 12 Jun 2013 12:48:23 +0000,Karisha_milka", "x_coord": "56.07302009", "y_coord": "54.76629962" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "31", "name": "Wed, 12 Jun 2013 12:47:56 +0000,natashka_mrr", "x_coord": "56.01456524", "y_coord": "54.76339131" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "32", "name": "Wed, 12 Jun 2013 12:47:01 +0000,Leskakuc", "x_coord": "56.0020757", "y_coord": "54.75733065" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "33", "name": "Wed, 12 Jun 2013 12:46:29 +0000,Diana55400627", "x_coord": "56.0104612", "y_coord": "54.759407" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "34", "name": "Wed, 12 Jun 2013 12:42:31 +0000,Vladislavcheg", "x_coord": "55.92908741", "y_coord": "54.67156935" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "35", "name": "Wed, 12 Jun 2013 12:42:31 +0000,Apizdahuen4ik", "x_coord": "55.95213003", "y_coord": "54.71498056" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "36", "name": "Wed, 12 Jun 2013 12:42:24 +0000,gizunya", "x_coord": "55.94638211", "y_coord": "54.72909499" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "37", "name": "Wed, 12 Jun 2013 12:41:14 +0000,Droonishe", "x_coord": "56.0302127", "y_coord": "54.741827" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "38", "name": "Wed, 12 Jun 2013 12:37:36 +0000,vladyanturin", "x_coord": "55.93093489", "y_coord": "54.55225104" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "39", "name": "Wed, 12 Jun 2013 12:36:28 +0000,GVSKVR", "x_coord": "56.03001364", "y_coord": "54.74742412" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "40", "name": "Wed, 12 Jun 2013 12:34:41 +0000,olegchikirev", "x_coord": "55.94309909", "y_coord": "54.72509651" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "41", "name": "Wed, 12 Jun 2013 12:34:01 +0000,YesYesiAmKamil", "x_coord": "55.95361926", "y_coord": "54.72654754" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 12:33:00 +0000,AlMoR_22", "x_coord": "55.94867225", "y_coord": "54.72684361" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 12:32:03 +0000,be_misanthrope", "x_coord": "56.0984253", "y_coord": "54.8098447" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 12:30:26 +0000,CthulhuSO", "x_coord": "55.96540459", "y_coord": "54.73869701" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 12:29:53 +0000,NekayaLil", "x_coord": "55.9675928", "y_coord": "54.731409" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 12:29:12 +0000,Yusupova__K", "x_coord": "55.92236758", "y_coord": "54.62135057" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 12:26:15 +0000,vladazima", "x_coord": "55.9770812", "y_coord": "54.74457007" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 12:23:38 +0000,PolliApple", "x_coord": "56.12575", "y_coord": "54.7815532" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 12:22:13 +0000,sonyashka_3", "x_coord": "55.77306414", "y_coord": "54.61512505" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 12:19:16 +0000,EldarNorilsk", "x_coord": "55.92098985", "y_coord": "54.55523621" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 12:18:35 +0000,KhuramshinaDi", "x_coord": "55.99181342", "y_coord": "54.71049843" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 12:15:10 +0000,ang_irdancer", "x_coord": "55.99574046", "y_coord": "54.69416246" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 12:14:00 +0000,rumscreed", "x_coord": "55.9489846", "y_coord": "54.72924081" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 12:13:41 +0000,elodie_lay", "x_coord": "56.03263432", "y_coord": "54.75266832" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 12:11:22 +0000,alinanagyy", "x_coord": "56.04949691", "y_coord": "54.76529685" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 12:11:21 +0000,heymaboy", "x_coord": "55.95027066", "y_coord": "54.74056661" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 12:06:37 +0000,CatWithHands", "x_coord": "56.0205072", "y_coord": "54.754707" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 12:03:47 +0000,katrinshagovaya", "x_coord": "56.0541993", "y_coord": "54.6678798" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 12:02:11 +0000,YanaYana1111", "x_coord": "56.05767857", "y_coord": "54.77222537" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 11:59:17 +0000,karinaatata", "x_coord": "55.99935947", "y_coord": "54.76240396" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 11:55:36 +0000,OlyaGaga3", "x_coord": "56.0434084", "y_coord": "54.7940971" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 11:53:23 +0000,annnasonova", "x_coord": "55.98575066", "y_coord": "54.72098022" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 11:53:18 +0000,IamYuniceNC", "x_coord": "55.9627946", "y_coord": "54.7331355" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 11:53:15 +0000,Aiguska_", "x_coord": "55.99916634", "y_coord": "54.75815024" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 11:48:25 +0000,MakBuka", "x_coord": "55.95010045", "y_coord": "54.70269988" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 11:47:29 +0000,angela_anjy", "x_coord": "55.98922873", "y_coord": "54.74142467" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 11:43:47 +0000,AdelMannanova", "x_coord": "55.93594971", "y_coord": "54.72633189" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 11:40:00 +0000,Usmanova96", "x_coord": "55.9958898", "y_coord": "54.7166476" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 11:38:50 +0000,kamikami_kam", "x_coord": "56.09823064", "y_coord": "54.67454388" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 11:33:47 +0000,angelok1104", "x_coord": "56.112804", "y_coord": "54.81487384" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 11:30:00 +0000,AnnetGorbunova", "x_coord": "56.18947199", "y_coord": "54.78784982" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 11:28:14 +0000,DearSashaa", "x_coord": "56.06532106", "y_coord": "54.81720003" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 11:28:12 +0000,Liliana_Adi", "x_coord": "55.92529297", "y_coord": "54.65185547" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 11:22:47 +0000,AzatFayzullin", "x_coord": "55.79564072", "y_coord": "54.70070221" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 11:22:28 +0000,ElvinaShireeva", "x_coord": "56.02703475", "y_coord": "54.74518882" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 11:21:56 +0000,CatStrit", "x_coord": "56.02918397", "y_coord": "54.75085211" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 11:19:23 +0000,simpson1007", "x_coord": "55.94556489", "y_coord": "54.60927401" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 11:17:34 +0000,Sancho200505", "x_coord": "56.028167", "y_coord": "54.77617" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 11:16:59 +0000,KurbanovaKarina", "x_coord": "56.05507612", "y_coord": "54.76547323" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 11:14:46 +0000,Marselleeeee", "x_coord": "56.01063477", "y_coord": "54.71657486" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 11:08:07 +0000,gorod102", "x_coord": "56.05104782", "y_coord": "54.78651719" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 11:05:30 +0000,elena_bobik", "x_coord": "55.9144251", "y_coord": "54.5878695" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 11:00:47 +0000,NTenkov", "x_coord": "56.06437015", "y_coord": "54.82281117" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 10:58:55 +0000,Lukmash", "x_coord": "56.06807275", "y_coord": "54.82061982" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "id": "42", "name": "Wed, 12 Jun 2013 10:52:48 +0000,CheinRAP", "x_coord": "56.02264385", "y_coord": "54.77197443" }, "geometry": null }
+
+]
+}
